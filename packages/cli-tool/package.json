@@ -1,0 +1,10 @@
+{
+  "name": "@odos/cli-tool",
+  "version": "1.0.0",
+  "bin": {
+    "odos-config": "bin/index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
